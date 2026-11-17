@@ -12,7 +12,7 @@ of the lake. The picture above is a render; it has not been cut by us yet.
 ## Files
 | File | What it is |
 |---|---|
-| `lake-tahoe-laser.svg` | Cut file. Page 194.7 x 320 mm, map 174.7 x 300 mm. One group per layer, 0.1 mm hairlines, each layer in its own colour. A small black "engrave" line holds the lake name and depths (engrave it or delete it). |
+| `lake-tahoe-laser.svg` | Cut file. Page 194.7 x 320 mm, map 174.7 x 300 mm. One group per layer, 0.1 mm hairlines, each layer in its own colour. A small black "engrave" line holds the lake name and depths (engrave it or delete it; some laser software does not import SVG text, so it may not show). |
 | `lake-tahoe-layers.dxf` | The same 7 layers as DXF layers `L0_shoreline` to `L6_1560ft`, units set to millimetres (`$INSUNITS` = 4). |
 | `lake-tahoe-preview.jpg` | The render above. |
 | `LICENSE.txt` | What you may do with the files. |
