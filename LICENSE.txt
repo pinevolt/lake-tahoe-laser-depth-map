@@ -1,0 +1,12 @@
+Lake Tahoe layered depth map, laser files (SVG + DXF)
+Depth Lines, a service of Small Hours Co.
+
+In plain words:
+- The files are free for personal use.
+- You may sell or gift anything you cut, engrave or make from them. Credit is welcome but not required.
+- Please don't resell, re-upload or redistribute the files themselves (or edited copies of them).
+  Link people to the page you got them from instead.
+- The survey data the files are drawn from is U.S. Geological Survey data (Gardner et al. 1999, USGS DDS-55),
+  which is in the public domain. This licence covers our drawing of it (the layer outlines and their layout),
+  not the survey data.
+- Not for navigation. The files come as they are, with no warranty.
